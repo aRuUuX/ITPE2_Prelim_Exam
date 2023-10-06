@@ -1,5 +1,4 @@
-This is your prelim laboratory exam.
-
-Use everything you learned (if there is) in solving this repository.
-
-Goodluck!
+Name : Rainier Lloyd L. Ventura
+Age : 20 years old
+Block & Year : BSIT 3-1
+Hobbies ; Volleyball
